@@ -15,7 +15,7 @@ A responsive home decor store homepage built using HTML, CSS, and JavaScript. Th
 
 ### Desktop View
 
-![Desktop Screenshot](ss1.png)
+![Desktop Screenshot](images/ss1.png)
 ![Desktop Screenshot](ss2.png)
 
 ### Mobile View
